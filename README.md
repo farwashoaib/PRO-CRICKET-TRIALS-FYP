@@ -11,7 +11,7 @@ This Final Year Project is an AI-powered Cricket Trials Management System develo
 - Report Generation (PDF)
 
 ## 🛠️ Tools Used
-- Python / .NET / Excel  
+- Python
 - HTML, CSS, JavaScript (if used in website)  
 - MySQL (if database used)
 
