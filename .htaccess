@@ -1,0 +1,2 @@
+# Redirect 404 errors to your custom 404.php page
+ErrorDocument 404 /pro/404.php
